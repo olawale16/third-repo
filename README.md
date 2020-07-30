@@ -1,1 +1,1 @@
-# third-repo
+# CGPA Calculator with text reader
